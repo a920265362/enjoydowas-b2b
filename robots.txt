@@ -2,5 +2,5 @@ User-agent: *
 Allow: /
 User-agent: Yandex
 Allow: /
-Host: https://B2B-DOMAIN-PLACEHOLDER
-Sitemap: https://B2B-DOMAIN-PLACEHOLDER/sitemap.xml
+Host: https://enjoydowas-b2b.vercel.app
+Sitemap: https://enjoydowas-b2b.vercel.app/sitemap.xml
